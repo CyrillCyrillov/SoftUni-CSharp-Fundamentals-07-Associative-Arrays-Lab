@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\bin\Debug\netcoreapp3.1\Task05_Word_Filter.exe
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\bin\Debug\netcoreapp3.1\Task05_Word_Filter.deps.json
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\bin\Debug\netcoreapp3.1\Task05_Word_Filter.runtimeconfig.json
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\bin\Debug\netcoreapp3.1\Task05_Word_Filter.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\bin\Debug\netcoreapp3.1\Task05_Word_Filter.dll
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\bin\Debug\netcoreapp3.1\Task05_Word_Filter.pdb
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\obj\Debug\netcoreapp3.1\Task05_Word_Filter.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\obj\Debug\netcoreapp3.1\Task05_Word_Filter.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\obj\Debug\netcoreapp3.1\Task05_Word_Filter.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\obj\Debug\netcoreapp3.1\Task05_Word_Filter.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\obj\Debug\netcoreapp3.1\Task05_Word_Filter.dll
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\obj\Debug\netcoreapp3.1\Task05_Word_Filter.pdb
+C:\Users\Kiril\source\repos\07_Lab\Task05_Word_Filter\obj\Debug\netcoreapp3.1\Task05_Word_Filter.genruntimeconfig.cache
