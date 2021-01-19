@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\bin\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.exe
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\bin\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.deps.json
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\bin\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.runtimeconfig.json
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\bin\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\bin\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.dll
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\bin\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.pdb
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\obj\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\obj\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\obj\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\obj\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\obj\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.dll
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\obj\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.pdb
+C:\Users\Kiril\source\repos\07_Lab\Task03_Largest_3_Numbers\obj\Debug\netcoreapp3.1\Task03_Largest_3_Numbers.genruntimeconfig.cache
